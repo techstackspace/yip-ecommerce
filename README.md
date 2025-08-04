@@ -169,8 +169,8 @@ resources/views/
 
 ## About Developer
 
-**Name**: Osagie Noah
-**Email**: [osagiebello@domain.com](mailto:osagienoah555@gmail.com)
+**Name**: Osagie Noah \
+**Email**: [osagienoah555@gmail.com](mailto:osagienoah555@gmail.com) \
 **Location**: Nigeria
 
 ---
