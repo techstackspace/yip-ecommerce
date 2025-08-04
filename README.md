@@ -132,7 +132,7 @@ resources/views/
 
 ## Test Credentials
 
-### 👤 Admin User
+### Admin User
 
 * **Email**: `admin@example.com`
 * **Password**: `password`
@@ -144,7 +144,7 @@ resources/views/
 
 ---
 
-## 🔧 Customizations / Extensions To Do
+## Customizations / Extensions To Do
 
 * Smarty template integration (optional bonus)
 * Product management dashboard (admin side)
@@ -153,7 +153,7 @@ resources/views/
 
 ---
 
-## 📋 Task Compliance Summary
+## Task Compliance Summary
 
 | Requirement                | Status    |
 | -------------------------- | --------- |
